@@ -1,0 +1,11 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "nombe": "Zapato Nike",
+            "precio": 60.99,
+            "ubicacion": "https://static.dafiti.com.co/p/nike-7889-2249121-1-product.jpg"
+        }
+    ],
+    "carrito": []
+}
